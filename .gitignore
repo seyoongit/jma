@@ -4,8 +4,8 @@ dist/
 npm-debug.log
 yarn-error.log
 
-./functions
-./lambda
+functions/
+lambda/
 
 # Editor directories and files
 .idea
