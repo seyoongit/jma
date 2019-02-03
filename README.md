@@ -18,7 +18,7 @@ Vue를 공부하기 위해 진행한 프로젝트<br>
 
 ### 구조
 
-![jma_structure](https://user-images.githubusercontent.com/47002080/52172442-99d44c80-27b2-11e9-8f02-7e22d64d2328.png)
+![jma_structure](https://user-images.githubusercontent.com/47002080/52173044-2be25200-27bf-11e9-97c9-fc39d65b0f6c.png)
 
 앱은 크게 게임보드와 알파벳, 그리고 탑 네비게이션 3가지 컴포넌트로 나뉜다.<br>
 <br>
